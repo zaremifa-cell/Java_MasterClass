@@ -4,7 +4,6 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Projects/HelloWorld" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Projects/KeywordsAndExpressions" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Projects/MethodOverloading.backup-20251225-084118" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Projects/OverloadedChallenge" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Projects/StatementsWhiteSpaceAndIndenting" vcs="Git" />
   </component>
